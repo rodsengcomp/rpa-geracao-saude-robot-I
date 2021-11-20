@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CDPWpq6aPC4rHUroGqQ1xwo+ePJHXly+J3vSqpqWJYDvstVQU/kxpQkQAiKz7jOTmthWjXGWlP/v04U11Dn5VQ==",
+  "dgSpecHash": "MDc8u7r5jz54xG2P1tJBw3XQWfJTfrWC21ro5DaVUo2urFj4Gd8ljpElY0UDe+Jr+blGvPIM6oWyg6/KF0Ba6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\rodol\\Documents\\UiPath\\rpa-geracao-saude-robot-I\\.local\\",
   "expectedPackageFiles": [
@@ -80,7 +80,7 @@
       "libraryId": "System.Memory",
       "targetGraphs": [
         ".NETFramework,Version=v4.6.1",
-        ".NETFramework,Version=v4.6.1/win7-x86"
+        ".NETFramework,Version=v4.6.1/win10-x64"
       ]
     }
   ]
